@@ -1,6 +1,6 @@
 ## Libraries 
 
-To run this project you need to install the React-Simple-Chatbot library on the project directory
+To run this project you need to install the React-Simple-Chatbot library on your computer
 
 ### `npm install react-simple-chatbot --save`
 
